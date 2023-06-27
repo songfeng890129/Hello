@@ -7,5 +7,6 @@ public class Hello {
         System.out.println("主干添加");
         System.out.println("分支添加");
         System.out.println("克隆者添加");
+        System.out.println("切换用户");
     }
 }
